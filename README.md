@@ -2,6 +2,9 @@
 
 Welcome!  You too create a "Fact Skill Compatible with APL" with the help of the Monkey Facts skill!  OK, just kidding, maybe.  This sample skill  demonstrate the Alexa Presentation Language (APL).  Ask for a fact and you'll be provided with an image and a fact about Monkey.
 
+This Alexa sample skill is a template for a basic fact skill in update with the APL compatibility to the existing template provided by Alexa [fact skill](https://github.com/alexa/skill-sample-nodejs-fact) . Provided a list of interesting facts about a topic, Alexa will select a fact at random and tell it to the user when the skill is invoked.
+
+
 ## Prerequisites
 
 * An Alexa Developer Account (sign up here: https://developer.amazon.com/alexa-skills-kit)
@@ -35,5 +38,5 @@ Welcome!  You too create a "Fact Skill Compatible with APL" with the help of the
 1. Click on the **Test** tab, enable the skill and check it out.  Phrases you can try include:
     * `open monkey facts` (or whatever invocation name you used)
     
-
+1. Visit [developer promotions] (https://developer.amazon.com/alexa-skills-kit/alexa-developer-skill-promotion-india) to earn rewards.    
 
