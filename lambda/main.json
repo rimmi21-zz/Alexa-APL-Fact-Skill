@@ -25,7 +25,7 @@
         {
             "description": "Standard font sizes",
             "dimensions": {
-                "textSizeBody": 48,
+                "textSizeBody": 30,
                 "textSizePrimary": 27,
                 "textSizeSecondary": 23,
                 "textSizeSecondaryHint": 25
@@ -151,8 +151,8 @@
                             {
                                 "type": "Text",
                                 "text": "${payload.response.text}",
-                                "fontSize": "@textSizeBody",
-                                "spacing": "@spacingSmall",
+                                "fontSize": "20",
+                                "spacing": "10",
                                 "style": "textStyleBody"
                             }
                         ]
