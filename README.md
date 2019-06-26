@@ -38,5 +38,5 @@ This Alexa sample skill is a template for a basic fact skill in update with the 
 1. Click on the **Test** tab, enable the skill and check it out.  Phrases you can try include:
     * `open monkey facts` (or whatever invocation name you used)
     
-1. Visit [developer promotions] (https://developer.amazon.com/alexa-skills-kit/alexa-developer-skill-promotion-india) to earn rewards.    
+1. Visit [developer promotions](https://developer.amazon.com/alexa-skills-kit/alexa-developer-skill-promotion-india) to earn rewards.    
 
