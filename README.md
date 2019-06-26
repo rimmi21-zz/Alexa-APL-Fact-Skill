@@ -27,7 +27,7 @@ Welcome!  You too create a "Fact Skill Compatible with APL" with the help of the
     * **index.js** with this [index.js](./lambda/index.js) (Pro tip: click the **Raw** button to make it easier to copy)
     * **package.json** with this [package.json](./lambda/package.json)
 
-1. In the **lambda** folder, create a file named `main.json`  and source the contents from [here](./json-editor.json).
+1. In the **lambda** folder, create a file named `main.json`  and source the contents from [here](./lambda/main.json).
 
 1. Save and Deploy the function
 1. Click on the **Test** tab, enable the skill and check it out.  Phrases you can try include:
