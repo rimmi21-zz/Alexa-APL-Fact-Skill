@@ -1,0 +1,50 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "monkey facts",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "GetNewFactIntent",
+                    "slots": [],
+                    "samples": [
+                        "monkey facts",
+                        "tell me a monkey fact",
+                        "test",
+                        "hello",
+                        "a fact",
+                        "an monkey fact",
+                        "an monkey energy fact",
+                        "tell me a fact",
+                        "tell me an monkey fact",
+                        "give me a fact",
+                        "give me an monkey fact",
+                        "give me some information",
+                        "give me some monkey information",
+                        "give me some monkey energy information",
+                        "tell me something",
+                        "tell me something more",
+                        "tell me something more about monkey",
+                        "give me something"
+                    ]
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                }
+            ],
+            "types": []
+        }
+    }
+}
