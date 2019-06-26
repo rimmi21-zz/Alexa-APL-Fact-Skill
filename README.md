@@ -4,6 +4,7 @@ Welcome!  You too create a "Fact Skill Compatible with APL" with the help of the
 
 This Alexa sample skill is a template for a basic fact skill in update with the APL compatibility to the existing template provided by Alexa [fact skill](https://github.com/alexa/skill-sample-nodejs-fact) . Provided a list of interesting facts about a topic, Alexa will select a fact at random and tell it to the user when the skill is invoked.
 
+> You can try out the skill at Skill(https://www.amazon.in/Sohini-Pattanayak-Monkey-Facts/dp/B07T8J51YR/ref=sr_1_1?keywords=monkey+facts&qid=1561563103&s=digital-skills&sr=1-1)
 
 ## Prerequisites
 
