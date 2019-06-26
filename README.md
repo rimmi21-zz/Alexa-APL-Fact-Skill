@@ -29,6 +29,8 @@ Welcome!  You too create a "Fact Skill Compatible with APL" with the help of the
 
 1. In the **lambda** folder, create a file named `main.json`  and source the contents from [here](./lambda/main.json).
 
+1. To make your own Fact skill update the skill name and the facts data in index.js and json editor correspondingly.
+
 1. Save and Deploy the function
 1. Click on the **Test** tab, enable the skill and check it out.  Phrases you can try include:
     * `open monkey facts` (or whatever invocation name you used)
